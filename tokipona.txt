@@ -21,7 +21,7 @@ UUID = e530f083-e20e-4e85-8d91-980019258c23
 ### For example the last modified date of this file.
 ### This number must be less than 2^32.
 ### Just make your table version-able
-SERIAL_NUMBER = 20220215
+SERIAL_NUMBER = 20240102
 
 ### ICON can be any format as long as your pygtk can recognized
 ### the most widely ones are "png" and "svg", letter one is recommended
@@ -55,7 +55,7 @@ AUTHOR = jan Komi
 STATUS_PROMPT = toki
 
 ### Valid input chars.
-VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz[]_'
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz[]():.+-'
 
 ### Layout
 LAYOUT = us
@@ -117,7 +117,7 @@ DYNAMIC_ADJUST = TRUE
 SELECT_KEYS = 1,2,3,4,5,6,7,8,9
 
 ### The default orientation of the candidate list
-### TRUE means the candidate list is vertical, FALSE means it is vertical
+### TRUE means the candidate list is vertical, FALSE means it is horizontal
 ORIENTATION=TRUE
 
 END_DEFINITION
@@ -271,12 +271,15 @@ pake	󱦠	1
 apeja	󱦡	1
 majuna	󱦢	1
 powe	󱦣	1
+.	󱦜	1
+:	󱦝	1
 [	󱦐	1
 ]	󱦑	1
-_	󱦒	1
-pi_	󱦓	1
-'	󱦔	1
-END_TABlE
+(	󱦗	1
+)	󱦘	1
++	󱦖	1
+-	󱦕	1
+END_TABLE
 
 ### Since some input methods use different table for every character to make
 ### phrase, such as ZhengMa, they need explict define the goucima (the
