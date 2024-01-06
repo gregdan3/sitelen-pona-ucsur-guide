@@ -55,7 +55,7 @@ AUTHOR = jan Komi
 STATUS_PROMPT = toki
 
 ### Valid input chars.
-VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz[](){}:.+-'
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz[](){}<>:.?!+-'
 
 ### Layout
 LAYOUT = us
@@ -281,6 +281,8 @@ powe	󱦣	1
 }	󱦛	1
 -	󱦖	1
 +	󱦕	1
+<	「	1
+>	」	1
 END_TABLE
 
 ### Since some input methods use different table for every character to make
