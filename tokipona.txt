@@ -21,7 +21,7 @@ UUID = e530f083-e20e-4e85-8d91-980019258c23
 ### For example the last modified date of this file.
 ### This number must be less than 2^32.
 ### Just make your table version-able
-SERIAL_NUMBER = 20240102
+SERIAL_NUMBER = 20240106
 
 ### ICON can be any format as long as your pygtk can recognized
 ### the most widely ones are "png" and "svg", letter one is recommended
