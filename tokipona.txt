@@ -131,6 +131,7 @@ END_DEFINITION
 ### or phrase.
 BEGIN_TABLE
 a	󱤀	1
+aa	󱤀	1
 akesi	󱤁	1
 ala	󱤂	1
 alasa	󱤃	1
@@ -171,6 +172,7 @@ lawa	󱤤	1
 len	󱤥	1
 lete	󱤦	1
 li	󱤧	1
+lii	󱤧	1
 lili	󱤨	1
 linja	󱤩	1
 lipu	󱤪	1
@@ -189,6 +191,7 @@ moku	󱤶	1
 moli	󱤷	1
 monsi	󱤸	1
 mu	󱤹	1
+muu	󱤹	1
 mun	󱤺	1
 musi	󱤻	1
 mute	󱤼	1
@@ -200,6 +203,7 @@ ni	󱥁	1
 nimi	󱥂	1
 noka	󱥃	1
 o	󱥄	1
+oo	󱥄	1
 olin	󱥅	1
 ona	󱥆	1
 open	󱥇	1
@@ -209,6 +213,7 @@ palisa	󱥊	1
 pan	󱥋	1
 pana	󱥌	1
 pi	󱥍	1
+pii	󱥍	1
 pilin	󱥎	1
 pimeja	󱥏	1
 pini	󱥐	1
@@ -266,6 +271,7 @@ epiku	󱦃	1
 kokosila	󱦄	1
 lanpan	󱦅	1
 n	󱦆	1
+nn	󱦆	1
 misikeke	󱦇	1
 ku	󱦈	1
 pake	󱦠	1
