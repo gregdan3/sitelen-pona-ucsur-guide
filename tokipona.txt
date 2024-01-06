@@ -134,6 +134,7 @@ a	󱤀	1
 aa	󱤀	1
 akesi	󱤁	1
 ala	󱤂	1
+alaa	󱤂	1
 alasa	󱤃	1
 ale	󱤄	1
 anpa	󱤅	1
@@ -166,6 +167,7 @@ kule	󱤞	1
 kulupu	󱤟	1
 kute	󱤠	1
 la	󱤡	1
+laa	󱤡	1
 lape	󱤢	1
 laso	󱤣	1
 lawa	󱤤	1
@@ -186,6 +188,7 @@ mama	󱤱	1
 mani	󱤲	1
 meli	󱤳	1
 mi	󱤴	1
+mii	󱤴	1
 mije	󱤵	1
 moku	󱤶	1
 moli	󱤷	1
@@ -200,6 +203,7 @@ nasa	󱤾	1
 nasin	󱤿	1
 nena	󱥀	1
 ni	󱥁	1
+nii	󱥁	1
 nimi	󱥂	1
 noka	󱥃	1
 o	󱥄	1
@@ -230,6 +234,7 @@ sewi	󱥚	1
 sijelo	󱥛	1
 sike	󱥜	1
 sin	󱥝	1
+sinn	󱥝	1
 sina	󱥞	1
 sinpin	󱥟	1
 sitelen	󱥠	1
