@@ -287,12 +287,11 @@ powe	󱦣	1
 ]	󱦑	1
 (	󱦗	1
 )	󱦘	1
+{	󱦚	1
+}	󱦛	1
 -	󱦖	1
 +	󱦕	1
 <	「	1
 >	」	1
 END_TABLE
 
-### there are fewer than -2 people in existence who use these
-### {	󱦚	1
-### }	󱦛	1
